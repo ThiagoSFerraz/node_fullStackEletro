@@ -8,10 +8,10 @@
 </h2>
 <li>
     <ul>Primeiro, instale as dependências do node nas pastas backend e frontend!</ul>
-    <li><ul>use o terminal na pasta (backend/frontend) e use <a>npm i</a> para isso</ul>
+    <li><ul>use o terminal na pasta (backend/frontend) e use <a>npm i</a> para isso</ul></li>
 </li>
 <br>
-<h3 align="center">Banco de dados<h3>
+<h3>Banco de dados</h3>
 <hr>
 <p align="center">Para configurar o banco de dados, vá na pasta backend e lá importe o arquivo chamado "db.sql" para seu banco de dados.</p>
 <br>
