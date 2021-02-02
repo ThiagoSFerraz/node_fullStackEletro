@@ -8,7 +8,6 @@
 </h2>
 <li>
     <ul>Primeiro, instale as dependências do node nas pastas backend e frontend!</ul>
-    <li><ul>use o terminal na pasta (backend/frontend) e use <a>npm i</a> para isso</ul></li>
 </li>
 <br>
 <h3>Banco de dados</h3>
